@@ -1,0 +1,101 @@
+[
+  {
+    "id": "bear",
+    "name": "Bear",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/bear.glb",
+    "thumbnailPath": "assets/thumbnails/objects/bear.png",
+    "defaultScale": { "x": 1, "y": 1, "z": 1 },
+    "builtin": false
+  },
+  {
+    "id": "radio",
+    "name": "Radio",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/radio.glb",
+    "thumbnailPath": "assets/thumbnails/objects/radio.png",
+    "defaultScale": { "x": 1, "y": 1, "z": 1 },
+    "builtin": false
+  },
+  {
+    "id": "laptop",
+    "name": "Laptop",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/laptop.glb",
+    "thumbnailPath": "assets/thumbnails/objects/laptop.png",
+    "defaultScale": { "x": 1, "y": 1, "z": 1 },
+    "builtin": false
+  },
+  {
+    "id": "table",
+    "name": "Table",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/table.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/table.png",
+    "defaultScale": { "x": 1, "y": 1, "z": 1 },
+    "builtin": false
+  },
+  {
+    "id": "chair",
+    "name": "Chair",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/chair.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/chair.png",
+    "defaultScale": { "x": 1, "y": 1, "z": 1 },
+    "builtin": false
+  },
+  {
+    "id": "single_bed",
+    "name": "Single Bed",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/bedSingle.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/bedSingle.png",
+    "defaultScale": { "x": 1, "y": 1, "z": 1 },
+    "builtin": false
+  },
+  {
+    "id": "lounge_sofa",
+    "name": "Lounge Sofa",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/loungeSofa.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/loungeSofa.png",
+    "defaultScale": { "x": 1, "y": 1, "z": 1 },
+    "builtin": false
+  },
+  {
+    "id": "small_plant",
+    "name": "Small Plant",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/pottedPlant.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/pottedPlant.png",
+    "defaultScale": { "x": 1, "y": 1, "z": 1 },
+    "builtin": false
+  },
+  {
+    "id": "door",
+    "name": "Door",
+    "category": "Wall",
+    "glbPath": "assets/models/wall/doorway.glb",
+    "thumbnailPath": "assets/thumbnails/wall/doorway.png",
+    "defaultScale": { "x": 1, "y": 1, "z": 1 },
+    "builtin": true
+  },
+  {
+    "id": "window",
+    "name": "Window",
+    "category": "Wall",
+    "glbPath": "assets/models/wall/wallWindow.glb",
+    "thumbnailPath": "assets/thumbnails/wall/wallWindow.png",
+    "defaultScale": { "x": 1, "y": 1, "z": 1 },
+    "builtin": true
+  },
+  {
+    "id": "wall_light",
+    "name": "Wall Light",
+    "category": "Wall",
+    "glbPath": "assets/models/wall/lampWall.glb",
+    "thumbnailPath": "assets/thumbnails/wall/lampWall.png",
+    "defaultScale": { "x": 1, "y": 1, "z": 1 },
+    "builtin": true
+  }
+]
