@@ -2,8 +2,8 @@
   "name": "My Palace",
   "short_name": "My Palace",
   "display": "standalone",
-  "background_color": "#090705",
-  "theme_color": "#16110d",
+  "background_color": "#8f989f",
+  "theme_color": "#a7afb5",
   "start_url": ".",
   "icons": [
     {
