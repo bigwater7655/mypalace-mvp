@@ -1,21 +1,1667 @@
 [
   {
+    "id": "food_advocado_half",
+    "name": "Advocado Half",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-advocado-half.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-advocado-half.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_apple",
+    "name": "Apple",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-apple.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-apple.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_apple_half",
+    "name": "Apple Half",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-apple-half.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-apple-half.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_avocado",
+    "name": "Avocado",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-avocado.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-avocado.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_bacon",
+    "name": "Bacon",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-bacon.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-bacon.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_bacon_raw",
+    "name": "Bacon Raw",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-bacon-raw.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-bacon-raw.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_bag",
+    "name": "Bag",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-bag.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-bag.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_bag_flat",
+    "name": "Bag Flat",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-bag-flat.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-bag-flat.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_banana",
+    "name": "Banana",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-banana.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-banana.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_barrel",
+    "name": "Barrel",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-barrel.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-barrel.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
     "id": "bear",
     "name": "Bear",
     "category": "Objects",
     "glbPath": "assets/models/objects/bear.glb",
     "thumbnailPath": "assets/thumbnails/objects/bear.png",
-    "defaultScale": { "x": 1, "y": 1, "z": 1 },
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
     "builtin": false
   },
   {
-    "id": "radio",
-    "name": "Radio",
+    "id": "pet_beaver",
+    "name": "Beaver",
     "category": "Objects",
-    "glbPath": "assets/models/objects/radio.glb",
-    "thumbnailPath": "assets/thumbnails/objects/radio.png",
-    "defaultScale": { "x": 1, "y": 1, "z": 1 },
-    "builtin": false
+    "glbPath": "assets/models/objects/pet-animal-beaver.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-beaver.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_bee",
+    "name": "Bee",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-bee.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-bee.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_beet",
+    "name": "Beet",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-beet.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-beet.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_books",
+    "name": "Books",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/books.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/books.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_bottle_ketchup",
+    "name": "Bottle Ketchup",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-bottle-ketchup.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-bottle-ketchup.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_bottle_musterd",
+    "name": "Bottle Musterd",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-bottle-musterd.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-bottle-musterd.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_bottle_oil",
+    "name": "Bottle Oil",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-bottle-oil.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-bottle-oil.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_bowl",
+    "name": "Bowl",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-bowl.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-bowl.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_bowl_broth",
+    "name": "Bowl Broth",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-bowl-broth.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-bowl-broth.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_bowl_cereal",
+    "name": "Bowl Cereal",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-bowl-cereal.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-bowl-cereal.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_bowl_soup",
+    "name": "Bowl Soup",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-bowl-soup.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-bowl-soup.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_bread",
+    "name": "Bread",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-bread.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-bread.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_broccoli",
+    "name": "Broccoli",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-broccoli.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-broccoli.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_bunny",
+    "name": "Bunny",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-bunny.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-bunny.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_burger",
+    "name": "Burger",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-burger.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-burger.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_burger_cheese",
+    "name": "Burger Cheese",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-burger-cheese.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-burger-cheese.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_burger_cheese_double",
+    "name": "Burger Cheese Double",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-burger-cheese-double.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-burger-cheese-double.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_burger_double",
+    "name": "Burger Double",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-burger-double.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-burger-double.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cabbage",
+    "name": "Cabbage",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cabbage.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cabbage.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cake",
+    "name": "Cake",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cake.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cake.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cake_birthday",
+    "name": "Cake Birthday",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cake-birthday.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cake-birthday.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cake_slicer",
+    "name": "Cake Slicer",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cake-slicer.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cake-slicer.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_can",
+    "name": "Can",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-can.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-can.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_can_open",
+    "name": "Can Open",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-can-open.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-can-open.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_can_small",
+    "name": "Can Small",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-can-small.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-can-small.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_candy_bar",
+    "name": "Candy Bar",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-candy-bar.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-candy-bar.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_candy_bar_wrapper",
+    "name": "Candy Bar Wrapper",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-candy-bar-wrapper.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-candy-bar-wrapper.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_cardboard_box_closed",
+    "name": "Cardboard Box Closed",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/cardboardBoxClosed.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/cardboardBoxClosed.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_cardboard_box_open",
+    "name": "Cardboard Box Open",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/cardboardBoxOpen.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/cardboardBoxOpen.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_carrot",
+    "name": "Carrot",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-carrot.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-carrot.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_carton",
+    "name": "Carton",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-carton.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-carton.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_carton_small",
+    "name": "Carton Small",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-carton-small.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-carton-small.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_cat",
+    "name": "Cat",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-cat.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-cat.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_caterpillar",
+    "name": "Caterpillar",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-caterpillar.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-caterpillar.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cauliflower",
+    "name": "Cauliflower",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cauliflower.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cauliflower.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_celery_stick",
+    "name": "Celery Stick",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-celery-stick.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-celery-stick.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_chair_cushion",
+    "name": "Chair Cushion",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/chairCushion.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/chairCushion.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cheese",
+    "name": "Cheese",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cheese.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cheese.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cheese_cut",
+    "name": "Cheese Cut",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cheese-cut.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cheese-cut.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cheese_slicer",
+    "name": "Cheese Slicer",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cheese-slicer.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cheese-slicer.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cherries",
+    "name": "Cherries",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cherries.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cherries.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_chick",
+    "name": "Chick",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-chick.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-chick.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_chinese",
+    "name": "Chinese",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-chinese.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-chinese.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_chocolate",
+    "name": "Chocolate",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-chocolate.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-chocolate.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_chocolate_wrapper",
+    "name": "Chocolate Wrapper",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-chocolate-wrapper.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-chocolate-wrapper.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_chopstic_decorative",
+    "name": "Chopstic Decorative",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-chopstic-decorative.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-chopstic-decorative.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_chopstick",
+    "name": "Chopstick",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-chopstick.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-chopstick.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cocktail",
+    "name": "Cocktail",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cocktail.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cocktail.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_coconut",
+    "name": "Coconut",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-coconut.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-coconut.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_coconut_half",
+    "name": "Coconut Half",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-coconut-half.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-coconut-half.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_computer_keyboard",
+    "name": "Computer Keyboard",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/computerKeyboard.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/computerKeyboard.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_computer_mouse",
+    "name": "Computer Mouse",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/computerMouse.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/computerMouse.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_computer_screen",
+    "name": "Computer Screen",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/computerScreen.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/computerScreen.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cookie",
+    "name": "Cookie",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cookie.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cookie.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cookie_chocolate",
+    "name": "Cookie Chocolate",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cookie-chocolate.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cookie-chocolate.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cooking_fork",
+    "name": "Cooking Fork",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cooking-fork.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cooking-fork.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cooking_knife",
+    "name": "Cooking Knife",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cooking-knife.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cooking-knife.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cooking_knife_chopping",
+    "name": "Cooking Knife Chopping",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cooking-knife-chopping.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cooking-knife-chopping.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cooking_spatula",
+    "name": "Cooking Spatula",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cooking-spatula.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cooking-spatula.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cooking_spoon",
+    "name": "Cooking Spoon",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cooking-spoon.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cooking-spoon.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_corn",
+    "name": "Corn",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-corn.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-corn.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_corn_dog",
+    "name": "Corn Dog",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-corn-dog.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-corn-dog.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_cow",
+    "name": "Cow",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-cow.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-cow.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_crab",
+    "name": "Crab",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-crab.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-crab.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_croissant",
+    "name": "Croissant",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-croissant.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-croissant.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cup",
+    "name": "Cup",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cup.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cup.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cup_coffee",
+    "name": "Cup Coffee",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cup-coffee.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cup-coffee.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cup_saucer",
+    "name": "Cup Saucer",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cup-saucer.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cup-saucer.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cup_tea",
+    "name": "Cup Tea",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cup-tea.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cup-tea.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cupcake",
+    "name": "Cupcake",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cupcake.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cupcake.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cutting_board",
+    "name": "Cutting Board",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cutting-board.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cutting-board.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cutting_board_japanese",
+    "name": "Cutting Board Japanese",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cutting-board-japanese.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cutting-board-japanese.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_cutting_board_round",
+    "name": "Cutting Board Round",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-cutting-board-round.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-cutting-board-round.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_deer",
+    "name": "Deer",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-deer.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-deer.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_dim_sum",
+    "name": "Dim Sum",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-dim-sum.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-dim-sum.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_dog",
+    "name": "Dog",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-dog.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-dog.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_donut",
+    "name": "Donut",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-donut.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-donut.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_donut_chocolate",
+    "name": "Donut Chocolate",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-donut-chocolate.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-donut-chocolate.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_donut_sprinkles",
+    "name": "Donut Sprinkles",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-donut-sprinkles.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-donut-sprinkles.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_egg",
+    "name": "Egg",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-egg.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-egg.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_egg_cooked",
+    "name": "Egg Cooked",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-egg-cooked.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-egg-cooked.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_egg_cup",
+    "name": "Egg Cup",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-egg-cup.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-egg-cup.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_egg_half",
+    "name": "Egg Half",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-egg-half.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-egg-half.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_eggplant",
+    "name": "Eggplant",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-eggplant.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-eggplant.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_elephant",
+    "name": "Elephant",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-elephant.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-elephant.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_fish",
+    "name": "Fish",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-fish.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-fish.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_fish",
+    "name": "Fish",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-fish.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-fish.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_fish_bones",
+    "name": "Fish Bones",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-fish-bones.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-fish-bones.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_fox",
+    "name": "Fox",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-fox.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-fox.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_frappe",
+    "name": "Frappe",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-frappe.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-frappe.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_fries",
+    "name": "Fries",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-fries.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-fries.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_fries_empty",
+    "name": "Fries Empty",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-fries-empty.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-fries-empty.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_frikandel_speciaal",
+    "name": "Frikandel Speciaal",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-frikandel-speciaal.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-frikandel-speciaal.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_frying_pan",
+    "name": "Frying Pan",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-frying-pan.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-frying-pan.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_frying_pan_lid",
+    "name": "Frying Pan Lid",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-frying-pan-lid.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-frying-pan-lid.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_ginger_bread",
+    "name": "Ginger Bread",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-ginger-bread.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-ginger-bread.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_ginger_bread_cutter",
+    "name": "Ginger Bread Cutter",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-ginger-bread-cutter.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-ginger-bread-cutter.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_giraffe",
+    "name": "Giraffe",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-giraffe.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-giraffe.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_glass",
+    "name": "Glass",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-glass.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-glass.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_glass_wine",
+    "name": "Glass Wine",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-glass-wine.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-glass-wine.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_grapes",
+    "name": "Grapes",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-grapes.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-grapes.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_hog",
+    "name": "Hog",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-hog.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-hog.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_honey",
+    "name": "Honey",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-honey.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-honey.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_hot_dog",
+    "name": "Hot Dog",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-hot-dog.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-hot-dog.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_hot_dog_raw",
+    "name": "Hot Dog Raw",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-hot-dog-raw.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-hot-dog-raw.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_ice_cream",
+    "name": "Ice Cream",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-ice-cream.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-ice-cream.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_ice_cream_cne",
+    "name": "Ice Cream Cne",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-ice-cream-cne.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-ice-cream-cne.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_ice_cream_cup",
+    "name": "Ice Cream Cup",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-ice-cream-cup.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-ice-cream-cup.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_ice_cream_scoop_chocolate",
+    "name": "Ice Cream Scoop Chocolate",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-ice-cream-scoop-chocolate.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-ice-cream-scoop-chocolate.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_ice_cream_scoop_mint",
+    "name": "Ice Cream Scoop Mint",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-ice-cream-scoop-mint.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-ice-cream-scoop-mint.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_kitchen_blender",
+    "name": "Kitchen Blender",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/kitchenBlender.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/kitchenBlender.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_kitchen_coffee_machine",
+    "name": "Kitchen Coffee Machine",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/kitchenCoffeeMachine.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/kitchenCoffeeMachine.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_kitchen_microwave",
+    "name": "Kitchen Microwave",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/kitchenMicrowave.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/kitchenMicrowave.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_knife_block",
+    "name": "Knife Block",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-knife-block.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-knife-block.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_koala",
+    "name": "Koala",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-koala.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-koala.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_lamp_round_table",
+    "name": "Lamp Round Table",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/lampRoundTable.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/lampRoundTable.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_lamp_square_table",
+    "name": "Lamp Square Table",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/lampSquareTable.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/lampSquareTable.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
   },
   {
     "id": "laptop",
@@ -23,17 +1669,1884 @@
     "category": "Objects",
     "glbPath": "assets/models/objects/laptop.glb",
     "thumbnailPath": "assets/thumbnails/objects/laptop.png",
-    "defaultScale": { "x": 1, "y": 1, "z": 1 },
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
     "builtin": false
   },
   {
-    "id": "table",
-    "name": "Table",
-    "category": "Furniture",
-    "glbPath": "assets/models/furniture/table.glb",
-    "thumbnailPath": "assets/thumbnails/furniture/table.png",
-    "defaultScale": { "x": 1, "y": 1, "z": 1 },
+    "id": "food_leek",
+    "name": "Leek",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-leek.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-leek.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_lemon",
+    "name": "Lemon",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-lemon.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-lemon.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_lemon_half",
+    "name": "Lemon Half",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-lemon-half.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-lemon-half.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_lion",
+    "name": "Lion",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-lion.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-lion.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_loaf",
+    "name": "Loaf",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-loaf.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-loaf.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_loaf_baguette",
+    "name": "Loaf Baguette",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-loaf-baguette.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-loaf-baguette.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_loaf_round",
+    "name": "Loaf Round",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-loaf-round.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-loaf-round.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_lollypop",
+    "name": "Lollypop",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-lollypop.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-lollypop.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_maki_roe",
+    "name": "Maki Roe",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-maki-roe.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-maki-roe.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_maki_salmon",
+    "name": "Maki Salmon",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-maki-salmon.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-maki-salmon.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_maki_vegetable",
+    "name": "Maki Vegetable",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-maki-vegetable.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-maki-vegetable.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_meat_cooked",
+    "name": "Meat Cooked",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-meat-cooked.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-meat-cooked.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_meat_patty",
+    "name": "Meat Patty",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-meat-patty.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-meat-patty.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_meat_raw",
+    "name": "Meat Raw",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-meat-raw.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-meat-raw.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_meat_ribs",
+    "name": "Meat Ribs",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-meat-ribs.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-meat-ribs.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_meat_sausage",
+    "name": "Meat Sausage",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-meat-sausage.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-meat-sausage.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_meat_tenderizer",
+    "name": "Meat Tenderizer",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-meat-tenderizer.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-meat-tenderizer.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_mincemeat_pie",
+    "name": "Mincemeat Pie",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-mincemeat-pie.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-mincemeat-pie.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_monkey",
+    "name": "Monkey",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-monkey.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-monkey.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_mortar",
+    "name": "Mortar",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-mortar.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-mortar.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_mortar_pestle",
+    "name": "Mortar Pestle",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-mortar-pestle.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-mortar-pestle.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_muffin",
+    "name": "Muffin",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-muffin.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-muffin.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_mug",
+    "name": "Mug",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-mug.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-mug.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_mushroom",
+    "name": "Mushroom",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-mushroom.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-mushroom.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_mushroom_half",
+    "name": "Mushroom Half",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-mushroom-half.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-mushroom-half.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_mussel",
+    "name": "Mussel",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-mussel.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-mussel.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_mussel_open",
+    "name": "Mussel Open",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-mussel-open.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-mussel-open.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_onion",
+    "name": "Onion",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-onion.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-onion.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_onion_half",
+    "name": "Onion Half",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-onion-half.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-onion-half.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_orange",
+    "name": "Orange",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-orange.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-orange.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_pan",
+    "name": "Pan",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-pan.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-pan.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_pan_stew",
+    "name": "Pan Stew",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-pan-stew.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-pan-stew.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_pancakes",
+    "name": "Pancakes",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-pancakes.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-pancakes.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_panda",
+    "name": "Panda",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-panda.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-panda.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_paprika",
+    "name": "Paprika",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-paprika.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-paprika.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_paprika_slice",
+    "name": "Paprika Slice",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-paprika-slice.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-paprika-slice.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_parrot",
+    "name": "Parrot",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-parrot.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-parrot.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_peanut_butter",
+    "name": "Peanut Butter",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-peanut-butter.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-peanut-butter.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_pear",
+    "name": "Pear",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-pear.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-pear.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_pear_half",
+    "name": "Pear Half",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-pear-half.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-pear-half.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_penguin",
+    "name": "Penguin",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-penguin.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-penguin.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_pepper",
+    "name": "Pepper",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-pepper.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-pepper.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_pepper_mill",
+    "name": "Pepper Mill",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-pepper-mill.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-pepper-mill.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_pie",
+    "name": "Pie",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-pie.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-pie.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_pig",
+    "name": "Pig",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-pig.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-pig.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_pillow",
+    "name": "Pillow",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/pillow.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/pillow.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_pillow_blue",
+    "name": "Pillow Blue",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/pillowBlue.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/pillowBlue.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_pillow_blue_long",
+    "name": "Pillow Blue Long",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/pillowBlueLong.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/pillowBlueLong.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_pillow_long",
+    "name": "Pillow Long",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/pillowLong.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/pillowLong.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_pineapple",
+    "name": "Pineapple",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-pineapple.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-pineapple.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_pizza",
+    "name": "Pizza",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-pizza.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-pizza.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_pizza_box",
+    "name": "Pizza Box",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-pizza-box.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-pizza-box.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_pizza_cutter",
+    "name": "Pizza Cutter",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-pizza-cutter.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-pizza-cutter.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_plant_small1",
+    "name": "Plant Small1",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/plantSmall1.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/plantSmall1.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_plant_small2",
+    "name": "Plant Small2",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/plantSmall2.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/plantSmall2.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_plant_small3",
+    "name": "Plant Small3",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/plantSmall3.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/plantSmall3.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_plate",
+    "name": "Plate",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-plate.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-plate.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_plate_broken",
+    "name": "Plate Broken",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-plate-broken.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-plate-broken.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_plate_deep",
+    "name": "Plate Deep",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-plate-deep.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-plate-deep.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_plate_dinner",
+    "name": "Plate Dinner",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-plate-dinner.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-plate-dinner.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_plate_rectangle",
+    "name": "Plate Rectangle",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-plate-rectangle.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-plate-rectangle.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_plate_sauerkraut",
+    "name": "Plate Sauerkraut",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-plate-sauerkraut.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-plate-sauerkraut.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_polar",
+    "name": "Polar",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-polar.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-polar.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_popsicle",
+    "name": "Popsicle",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-popsicle.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-popsicle.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_popsicle_chocolate",
+    "name": "Popsicle Chocolate",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-popsicle-chocolate.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-popsicle-chocolate.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_popsicle_stick",
+    "name": "Popsicle Stick",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-popsicle-stick.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-popsicle-stick.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_pot",
+    "name": "Pot",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-pot.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-pot.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_pot_lid",
+    "name": "Pot Lid",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-pot-lid.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-pot-lid.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_pot_stew",
+    "name": "Pot Stew",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-pot-stew.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-pot-stew.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_pot_stew_lid",
+    "name": "Pot Stew Lid",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-pot-stew-lid.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-pot-stew-lid.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_pudding",
+    "name": "Pudding",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-pudding.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-pudding.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_pumpkin",
+    "name": "Pumpkin",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-pumpkin.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-pumpkin.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_pumpkin_basic",
+    "name": "Pumpkin Basic",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-pumpkin-basic.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-pumpkin-basic.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "radio",
+    "name": "Radio",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/radio.glb",
+    "thumbnailPath": "assets/thumbnails/objects/radio.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
     "builtin": false
+  },
+  {
+    "id": "food_radish",
+    "name": "Radish",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-radish.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-radish.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_rice_ball",
+    "name": "Rice Ball",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-rice-ball.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-rice-ball.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_rollingPin",
+    "name": "Rollingpin",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-rollingPin.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-rollingPin.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_salad",
+    "name": "Salad",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-salad.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-salad.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_sandwich",
+    "name": "Sandwich",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-sandwich.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-sandwich.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_sausage",
+    "name": "Sausage",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-sausage.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-sausage.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_sausage_half",
+    "name": "Sausage Half",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-sausage-half.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-sausage-half.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_shaker_pepper",
+    "name": "Shaker Pepper",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-shaker-pepper.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-shaker-pepper.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_shaker_salt",
+    "name": "Shaker Salt",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-shaker-salt.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-shaker-salt.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_skewer",
+    "name": "Skewer",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-skewer.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-skewer.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_skewer_vegetables",
+    "name": "Skewer Vegetables",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-skewer-vegetables.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-skewer-vegetables.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_soda",
+    "name": "Soda",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-soda.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-soda.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_soda_bottle",
+    "name": "Soda Bottle",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-soda-bottle.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-soda-bottle.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_soda_can",
+    "name": "Soda Can",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-soda-can.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-soda-can.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_soda_can_crushed",
+    "name": "Soda Can Crushed",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-soda-can-crushed.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-soda-can-crushed.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_soda_glass",
+    "name": "Soda Glass",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-soda-glass.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-soda-glass.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_soy",
+    "name": "Soy",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-soy.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-soy.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_speaker",
+    "name": "Speaker",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/speaker.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/speaker.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_speaker_small",
+    "name": "Speaker Small",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/speakerSmall.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/speakerSmall.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_steamer",
+    "name": "Steamer",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-steamer.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-steamer.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_strawberry",
+    "name": "Strawberry",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-strawberry.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-strawberry.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_styrofoam",
+    "name": "Styrofoam",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-styrofoam.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-styrofoam.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_styrofoam_dinner",
+    "name": "Styrofoam Dinner",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-styrofoam-dinner.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-styrofoam-dinner.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_sub",
+    "name": "Sub",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-sub.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-sub.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_sundae",
+    "name": "Sundae",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-sundae.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-sundae.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_sushi_egg",
+    "name": "Sushi Egg",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-sushi-egg.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-sushi-egg.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_sushi_salmon",
+    "name": "Sushi Salmon",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-sushi-salmon.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-sushi-salmon.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_taco",
+    "name": "Taco",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-taco.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-taco.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_tajine",
+    "name": "Tajine",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-tajine.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-tajine.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_tajine_lid",
+    "name": "Tajine Lid",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-tajine-lid.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-tajine-lid.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_television_antenna",
+    "name": "Television Antenna",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/televisionAntenna.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/televisionAntenna.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_television_modern",
+    "name": "Television Modern",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/televisionModern.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/televisionModern.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_television_vintage",
+    "name": "Television Vintage",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/televisionVintage.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/televisionVintage.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "pet_tiger",
+    "name": "Tiger",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/pet-animal-tiger.glb",
+    "thumbnailPath": "assets/thumbnails/objects/pet-animal-tiger.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_toaster",
+    "name": "Toaster",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/toaster.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/toaster.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_tomato",
+    "name": "Tomato",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-tomato.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-tomato.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_tomato_slice",
+    "name": "Tomato Slice",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-tomato-slice.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-tomato-slice.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_trashcan",
+    "name": "Trashcan",
+    "category": "Objects",
+    "glbPath": "assets/models/furniture/trashcan.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/trashcan.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_turkey",
+    "name": "Turkey",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-turkey.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-turkey.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_utensil_fork",
+    "name": "Utensil Fork",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-utensil-fork.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-utensil-fork.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_utensil_knife",
+    "name": "Utensil Knife",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-utensil-knife.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-utensil-knife.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_utensil_spoon",
+    "name": "Utensil Spoon",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-utensil-spoon.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-utensil-spoon.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_waffle",
+    "name": "Waffle",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-waffle.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-waffle.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_watermelon",
+    "name": "Watermelon",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-watermelon.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-watermelon.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_whipped_cream",
+    "name": "Whipped Cream",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-whipped-cream.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-whipped-cream.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_whisk",
+    "name": "Whisk",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-whisk.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-whisk.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_whole_ham",
+    "name": "Whole Ham",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-whole-ham.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-whole-ham.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_wholer_ham",
+    "name": "Wholer Ham",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-wholer-ham.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-wholer-ham.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_wine_red",
+    "name": "Wine Red",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-wine-red.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-wine-red.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "food_wine_white",
+    "name": "Wine White",
+    "category": "Objects",
+    "glbPath": "assets/models/objects/food-wine-white.glb",
+    "thumbnailPath": "assets/thumbnails/objects/food-wine-white.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_bathroom_cabinet",
+    "name": "Bathroom Cabinet",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/bathroomCabinet.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/bathroomCabinet.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_bathroom_cabinet_drawer",
+    "name": "Bathroom Cabinet Drawer",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/bathroomCabinetDrawer.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/bathroomCabinetDrawer.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_bathroom_sink",
+    "name": "Bathroom Sink",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/bathroomSink.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/bathroomSink.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_bathroom_sink_square",
+    "name": "Bathroom Sink Square",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/bathroomSinkSquare.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/bathroomSinkSquare.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_bathtub",
+    "name": "Bathtub",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/bathtub.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/bathtub.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_bed_bunk",
+    "name": "Bed Bunk",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/bedBunk.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/bedBunk.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_bed_double",
+    "name": "Bed Double",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/bedDouble.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/bedDouble.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_bench",
+    "name": "Bench",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/bench.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/bench.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_bench_cushion",
+    "name": "Bench Cushion",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/benchCushion.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/benchCushion.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_bench_cushion_low",
+    "name": "Bench Cushion Low",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/benchCushionLow.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/benchCushionLow.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_bookcase_closed",
+    "name": "Bookcase Closed",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/bookcaseClosed.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/bookcaseClosed.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_bookcase_closed_doors",
+    "name": "Bookcase Closed Doors",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/bookcaseClosedDoors.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/bookcaseClosedDoors.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_bookcase_closed_wide",
+    "name": "Bookcase Closed Wide",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/bookcaseClosedWide.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/bookcaseClosedWide.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_bookcase_open",
+    "name": "Bookcase Open",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/bookcaseOpen.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/bookcaseOpen.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_bookcase_open_low",
+    "name": "Bookcase Open Low",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/bookcaseOpenLow.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/bookcaseOpenLow.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_cabinet_bed",
+    "name": "Cabinet Bed",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/cabinetBed.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/cabinetBed.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_cabinet_bed_drawer",
+    "name": "Cabinet Bed Drawer",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/cabinetBedDrawer.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/cabinetBedDrawer.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_cabinet_bed_drawer_table",
+    "name": "Cabinet Bed Drawer Table",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/cabinetBedDrawerTable.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/cabinetBedDrawerTable.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_cabinet_television",
+    "name": "Cabinet Television",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/cabinetTelevision.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/cabinetTelevision.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_cabinet_television_doors",
+    "name": "Cabinet Television Doors",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/cabinetTelevisionDoors.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/cabinetTelevisionDoors.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
   },
   {
     "id": "chair",
@@ -41,17 +3554,363 @@
     "category": "Furniture",
     "glbPath": "assets/models/furniture/chair.glb",
     "thumbnailPath": "assets/thumbnails/furniture/chair.png",
-    "defaultScale": { "x": 1, "y": 1, "z": 1 },
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
     "builtin": false
   },
   {
-    "id": "single_bed",
-    "name": "Single Bed",
+    "id": "furniture_chair_desk",
+    "name": "Chair Desk",
     "category": "Furniture",
-    "glbPath": "assets/models/furniture/bedSingle.glb",
-    "thumbnailPath": "assets/thumbnails/furniture/bedSingle.png",
-    "defaultScale": { "x": 1, "y": 1, "z": 1 },
-    "builtin": false
+    "glbPath": "assets/models/furniture/chairDesk.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/chairDesk.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_chair_modern_cushion",
+    "name": "Chair Modern Cushion",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/chairModernCushion.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/chairModernCushion.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_chair_modern_frame_cushion",
+    "name": "Chair Modern Frame Cushion",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/chairModernFrameCushion.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/chairModernFrameCushion.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_chair_rounded",
+    "name": "Chair Rounded",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/chairRounded.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/chairRounded.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_coat_rack",
+    "name": "Coat Rack",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/coatRack.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/coatRack.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_coat_rack_standing",
+    "name": "Coat Rack Standing",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/coatRackStanding.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/coatRackStanding.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_desk",
+    "name": "Desk",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/desk.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/desk.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_desk_corner",
+    "name": "Desk Corner",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/deskCorner.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/deskCorner.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_dryer",
+    "name": "Dryer",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/dryer.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/dryer.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_kitchen_bar",
+    "name": "Kitchen Bar",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/kitchenBar.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/kitchenBar.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_kitchen_bar_end",
+    "name": "Kitchen Bar End",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/kitchenBarEnd.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/kitchenBarEnd.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_kitchen_cabinet",
+    "name": "Kitchen Cabinet",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/kitchenCabinet.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/kitchenCabinet.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_kitchen_cabinet_corner_inner",
+    "name": "Kitchen Cabinet Corner Inner",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/kitchenCabinetCornerInner.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/kitchenCabinetCornerInner.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_kitchen_cabinet_corner_round",
+    "name": "Kitchen Cabinet Corner Round",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/kitchenCabinetCornerRound.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/kitchenCabinetCornerRound.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_kitchen_cabinet_drawer",
+    "name": "Kitchen Cabinet Drawer",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/kitchenCabinetDrawer.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/kitchenCabinetDrawer.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_kitchen_fridge",
+    "name": "Kitchen Fridge",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/kitchenFridge.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/kitchenFridge.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_kitchen_fridge_built_in",
+    "name": "Kitchen Fridge Built In",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/kitchenFridgeBuiltIn.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/kitchenFridgeBuiltIn.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_kitchen_fridge_large",
+    "name": "Kitchen Fridge Large",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/kitchenFridgeLarge.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/kitchenFridgeLarge.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_kitchen_fridge_small",
+    "name": "Kitchen Fridge Small",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/kitchenFridgeSmall.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/kitchenFridgeSmall.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_kitchen_sink",
+    "name": "Kitchen Sink",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/kitchenSink.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/kitchenSink.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_kitchen_stove",
+    "name": "Kitchen Stove",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/kitchenStove.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/kitchenStove.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_kitchen_stove_electric",
+    "name": "Kitchen Stove Electric",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/kitchenStoveElectric.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/kitchenStoveElectric.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_lounge_chair",
+    "name": "Lounge Chair",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/loungeChair.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/loungeChair.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_lounge_chair_relax",
+    "name": "Lounge Chair Relax",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/loungeChairRelax.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/loungeChairRelax.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_lounge_design_chair",
+    "name": "Lounge Design Chair",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/loungeDesignChair.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/loungeDesignChair.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_lounge_design_sofa",
+    "name": "Lounge Design Sofa",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/loungeDesignSofa.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/loungeDesignSofa.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_lounge_design_sofa_corner",
+    "name": "Lounge Design Sofa Corner",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/loungeDesignSofaCorner.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/loungeDesignSofaCorner.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
   },
   {
     "id": "lounge_sofa",
@@ -59,7 +3918,180 @@
     "category": "Furniture",
     "glbPath": "assets/models/furniture/loungeSofa.glb",
     "thumbnailPath": "assets/thumbnails/furniture/loungeSofa.png",
-    "defaultScale": { "x": 1, "y": 1, "z": 1 },
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": false
+  },
+  {
+    "id": "furniture_lounge_sofa_corner",
+    "name": "Lounge Sofa Corner",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/loungeSofaCorner.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/loungeSofaCorner.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_lounge_sofa_long",
+    "name": "Lounge Sofa Long",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/loungeSofaLong.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/loungeSofaLong.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_lounge_sofa_ottoman",
+    "name": "Lounge Sofa Ottoman",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/loungeSofaOttoman.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/loungeSofaOttoman.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_rug_doormat",
+    "name": "Rug Doormat",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/rugDoormat.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/rugDoormat.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_rug_rectangle",
+    "name": "Rug Rectangle",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/rugRectangle.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/rugRectangle.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_rug_round",
+    "name": "Rug Round",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/rugRound.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/rugRound.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_rug_rounded",
+    "name": "Rug Rounded",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/rugRounded.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/rugRounded.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_rug_square",
+    "name": "Rug Square",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/rugSquare.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/rugSquare.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_shower",
+    "name": "Shower",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/shower.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/shower.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_shower_round",
+    "name": "Shower Round",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/showerRound.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/showerRound.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_side_table",
+    "name": "Side Table",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/sideTable.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/sideTable.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_side_table_drawers",
+    "name": "Side Table Drawers",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/sideTableDrawers.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/sideTableDrawers.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "single_bed",
+    "name": "Single Bed",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/bedSingle.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/bedSingle.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
     "builtin": false
   },
   {
@@ -68,8 +4100,272 @@
     "category": "Furniture",
     "glbPath": "assets/models/furniture/pottedPlant.glb",
     "thumbnailPath": "assets/thumbnails/furniture/pottedPlant.png",
-    "defaultScale": { "x": 1, "y": 1, "z": 1 },
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
     "builtin": false
+  },
+  {
+    "id": "furniture_stairs",
+    "name": "Stairs",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/stairs.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/stairs.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_stairs_corner",
+    "name": "Stairs Corner",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/stairsCorner.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/stairsCorner.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_stairs_open",
+    "name": "Stairs Open",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/stairsOpen.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/stairsOpen.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_stairs_open_single",
+    "name": "Stairs Open Single",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/stairsOpenSingle.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/stairsOpenSingle.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_stool_bar",
+    "name": "Stool Bar",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/stoolBar.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/stoolBar.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_stool_bar_square",
+    "name": "Stool Bar Square",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/stoolBarSquare.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/stoolBarSquare.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "table",
+    "name": "Table",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/table.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/table.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": false
+  },
+  {
+    "id": "furniture_table_cloth",
+    "name": "Table Cloth",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/tableCloth.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/tableCloth.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_table_coffee",
+    "name": "Table Coffee",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/tableCoffee.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/tableCoffee.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_table_coffee_glass",
+    "name": "Table Coffee Glass",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/tableCoffeeGlass.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/tableCoffeeGlass.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_table_coffee_glass_square",
+    "name": "Table Coffee Glass Square",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/tableCoffeeGlassSquare.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/tableCoffeeGlassSquare.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_table_coffee_square",
+    "name": "Table Coffee Square",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/tableCoffeeSquare.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/tableCoffeeSquare.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_table_cross",
+    "name": "Table Cross",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/tableCross.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/tableCross.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_table_cross_cloth",
+    "name": "Table Cross Cloth",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/tableCrossCloth.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/tableCrossCloth.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_table_glass",
+    "name": "Table Glass",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/tableGlass.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/tableGlass.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_table_round",
+    "name": "Table Round",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/tableRound.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/tableRound.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_toilet",
+    "name": "Toilet",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/toilet.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/toilet.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_toilet_square",
+    "name": "Toilet Square",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/toiletSquare.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/toiletSquare.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_washer",
+    "name": "Washer",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/washer.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/washer.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "furniture_washer_dryer_stacked",
+    "name": "Washer Dryer Stacked",
+    "category": "Furniture",
+    "glbPath": "assets/models/furniture/washerDryerStacked.glb",
+    "thumbnailPath": "assets/thumbnails/furniture/washerDryerStacked.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
   },
   {
     "id": "door",
@@ -77,16 +4373,11 @@
     "category": "Wall",
     "glbPath": "assets/models/wall/doorway.glb",
     "thumbnailPath": "assets/thumbnails/wall/doorway.png",
-    "defaultScale": { "x": 1, "y": 1, "z": 1 },
-    "builtin": true
-  },
-  {
-    "id": "window",
-    "name": "Window",
-    "category": "Wall",
-    "glbPath": "assets/models/wall/wallWindow.glb",
-    "thumbnailPath": "assets/thumbnails/wall/wallWindow.png",
-    "defaultScale": { "x": 1, "y": 1, "z": 1 },
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
     "builtin": true
   },
   {
@@ -95,7 +4386,24 @@
     "category": "Wall",
     "glbPath": "assets/models/wall/lampWall.glb",
     "thumbnailPath": "assets/thumbnails/wall/lampWall.png",
-    "defaultScale": { "x": 1, "y": 1, "z": 1 },
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "builtin": true
+  },
+  {
+    "id": "window",
+    "name": "Window",
+    "category": "Wall",
+    "glbPath": "assets/models/wall/wallWindow.glb",
+    "thumbnailPath": "assets/thumbnails/wall/wallWindow.png",
+    "defaultScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
     "builtin": true
   }
 ]
